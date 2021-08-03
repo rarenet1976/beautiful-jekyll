@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\assets",
+    "\\assets\\global",
+    "\\assets\\img",
+    "\\docs",
+    "\\_data",
+    "\\_includes",
+    "\\_layouts",
+    "\\_posts"
+  ],
+  "SelectedNode": "\\_includes\\footer.html",
+  "PreviewInSolutionExplorer": false
+}
